@@ -38,10 +38,8 @@ The timer allows users to select hours, minutes, and seconds, and provides a loo
 
 ## Demo
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Countdown Timer Demo](https://img.youtube.com/vi/RbTI_ZOIsYQ/maxresdefault.jpg)](https://youtu.be/RbTI_ZOIsYQ)
+
 
 ## License
 
